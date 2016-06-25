@@ -1,6 +1,6 @@
 {
   "name": "representer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easily map REST documents to models",
   "main": "lib/representer.js",
   "scripts": {
